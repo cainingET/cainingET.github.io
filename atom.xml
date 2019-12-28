@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://caininget.github.io</id>
+    <id>https://caininget.github</id>
     <title>caining</title>
-    <updated>2019-12-28T07:46:34.806Z</updated>
+    <updated>2019-12-28T07:51:20.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://caininget.github.io"/>
-    <link rel="self" href="https://caininget.github.io/atom.xml"/>
+    <link rel="alternate" href="https://caininget.github"/>
+    <link rel="self" href="https://caininget.github/atom.xml"/>
     <subtitle>跟随内心</subtitle>
-    <logo>https://caininget.github.io/images/avatar.png</logo>
-    <icon>https://caininget.github.io/favicon.ico</icon>
+    <logo>https://caininget.github/images/avatar.png</logo>
+    <icon>https://caininget.github/favicon.ico</icon>
     <rights>All rights reserved 2019, caining</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://caininget.github.io/post/test</id>
-        <link href="https://caininget.github.io/post/test">
+        <id>https://caininget.github/post/test</id>
+        <link href="https://caininget.github/post/test">
         </link>
         <updated>2019-12-28T04:54:36.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
