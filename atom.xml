@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://caininget.github.io/</id>
     <title>ning</title>
-    <updated>2020-01-04T11:36:50.459Z</updated>
+    <updated>2020-01-04T12:02:45.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://caininget.github.io/"/>
-    <link rel="self" href="https://caininget.github.io//atom.xml"/>
+    <link rel="self" href="https://caininget.github.io/atom.xml"/>
     <subtitle>Follow your inner guide</subtitle>
-    <logo>https://caininget.github.io//images/avatar.png</logo>
-    <icon>https://caininget.github.io//favicon.ico</icon>
+    <logo>https://caininget.github.io/images/avatar.png</logo>
+    <icon>https://caininget.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ning</rights>
     <entry>
         <title type="html"><![CDATA[Fidder应用场景]]></title>
-        <id>https://caininget.github.io//post/fidder-ying-yong-chang-jing</id>
-        <link href="https://caininget.github.io//post/fidder-ying-yong-chang-jing">
+        <id>https://caininget.github.io/post/fidder-ying-yong-chang-jing</id>
+        <link href="https://caininget.github.io/post/fidder-ying-yong-chang-jing">
         </link>
         <updated>2020-01-04T11:29:05.000Z</updated>
         <content type="html"><![CDATA[<h1 id="fidder应用场景">Fidder应用场景</h1>
@@ -28,8 +28,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[自动化测试]]></title>
-        <id>https://caininget.github.io//post/自动化测试</id>
-        <link href="https://caininget.github.io//post/自动化测试">
+        <id>https://caininget.github.io/post/自动化测试</id>
+        <link href="https://caininget.github.io/post/自动化测试">
         </link>
         <updated>2019-12-28T04:54:36.000Z</updated>
         <content type="html"><![CDATA[<p>分类<br>
