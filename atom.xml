@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ning.github.io/</id>
-    <title>caining</title>
-    <updated>2020-01-04T09:24:00.296Z</updated>
+    <id>https://caininget.github.io/</id>
+    <title>ning</title>
+    <updated>2020-01-04T11:16:36.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ning.github.io/"/>
-    <link rel="self" href="https://ning.github.io//atom.xml"/>
+    <link rel="alternate" href="https://caininget.github.io/"/>
+    <link rel="self" href="https://caininget.github.io//atom.xml"/>
     <subtitle>Follow your inner guide</subtitle>
-    <logo>https://ning.github.io//images/avatar.png</logo>
-    <icon>https://ning.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2020, caining</rights>
+    <logo>https://caininget.github.io//images/avatar.png</logo>
+    <icon>https://caininget.github.io//favicon.ico</icon>
+    <rights>All rights reserved 2020, ning</rights>
     <entry>
         <title type="html"><![CDATA[自动化测试]]></title>
-        <id>https://ning.github.io//post/自动化测试</id>
-        <link href="https://ning.github.io//post/自动化测试">
+        <id>https://caininget.github.io//post/自动化测试</id>
+        <link href="https://caininget.github.io//post/自动化测试">
         </link>
         <updated>2019-12-28T04:54:36.000Z</updated>
         <content type="html"><![CDATA[<p>分类<br>
